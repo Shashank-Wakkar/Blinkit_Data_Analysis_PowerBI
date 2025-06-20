@@ -1,5 +1,10 @@
 # Blinkit_Data_Analysis_PowerBI
 
+
+![image](https://github.com/user-attachments/assets/c55ba1d5-ab6a-4627-9783-493764d88156)
+
+
+
 Here are the high-level insights that emerge from the Analysis
 Overall performance
 
